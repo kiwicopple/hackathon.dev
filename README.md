@@ -1,4 +1,4 @@
-# fresh project
+# `hackathon.dev`
 
 ### Usage
 
